@@ -10,6 +10,7 @@ import messages_fr from "./locales/fr.json";
 import messages_en from "./locales/en.json";
 import { Contact } from "./components/Contact";
 import { Portfolio } from "./components/Portfolio";
+import { Bio } from "./components/Bio";
 
 const messages = {
   fr: messages_fr,
